@@ -15,8 +15,10 @@ function Header() {
                         <li>ติดต่อ</li>
                         <Theme />
                     </ul>
-
         </div>
+        
+        <hr />
+        <br />
 
     </header>
 }
