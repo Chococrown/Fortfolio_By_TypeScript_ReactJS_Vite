@@ -108,9 +108,6 @@ function About_Skill() {
         <div>Responsive Web Design , Component-Based Architecture</div>
 
         <br/>
-
-
-        <br/>
         <hr/>
         <br/>
 

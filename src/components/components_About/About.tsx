@@ -7,14 +7,13 @@ import About_Skill from './About_Skill';
 import About_Objective from './About_Objective';
 
 function About() {
-    return <div className='about__container'>
-        <div className='about__01'>
+    return <div>
+        <div>
             <About_Personal/>
             <About_Education/>
             <About_WorkExperience/>
-            <About_Skill/>
             <About_Objective/>
-
+            <About_Skill/>
         </div>
     </div>
 }
