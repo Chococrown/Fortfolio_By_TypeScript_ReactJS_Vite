@@ -3,7 +3,7 @@ import profile from './images/profile.jpeg'
 function About_Personal() {
     return <div>
 
-        <h2>เกี่ยวกับ</h2>
+        <h2> 🚀 เกี่ยวกับ </h2>
 
         <br/>
 
