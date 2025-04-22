@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Header_Navbar {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 10px;
+
+    text-align: center;
+    align-items: center;
+}
+
+.Header__Navbar__Menu {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
