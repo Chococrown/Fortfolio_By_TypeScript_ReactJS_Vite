@@ -1,0 +1,17 @@
+.about__img__profile {
+    border-radius: 50%;
+}
+
+.about__img__skill {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+
+    
+    img{
+        width: 5vw ;
+        height: auto ;
+    }
+
+}
+
