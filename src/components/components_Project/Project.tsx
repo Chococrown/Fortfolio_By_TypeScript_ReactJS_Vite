@@ -2,7 +2,7 @@ import './styles_Project/Project.css'
 
 
 function Project() {
-    return <div>
+    return <div className='project__Container'>
 
         <h2> 📁 ตัวอย่างโปรเจกต์ </h2>
 
@@ -11,6 +11,12 @@ function Project() {
         <div>
             (คุณสามารถเพิ่มลิงก์ GitHub หรือ Project Portfolio ได้ เช่น)
         </div>
+
+        <br/>
+
+        <a href='https://github.com/Chococrown'> https://github.com/Chococrown </a>
+
+        <br/>
 
         <br/>
 

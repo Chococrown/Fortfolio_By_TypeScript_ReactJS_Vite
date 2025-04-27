@@ -14,8 +14,29 @@
     align-items: center;
 }
 
+.header__Navbar__01 {
+    display: flex;
+    gap: 20px;
+
+    text-align: center;
+    align-items: center;
+
+    img {
+        width: 30px;
+        height: auto;
+    }
+}
+
 .Header__Navbar__Menu {
     display: flex;
     list-style: none;
     gap: 20px;
+
+    text-align: center;
+    align-items: center;
+
+    img {
+        width: 30px;
+        height: auto;
+    }
 }
